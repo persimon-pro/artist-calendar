@@ -1,0 +1,6 @@
+{
+  "name": "Artist Planner",
+  "description": "Система распределения смен артистов для ресторанов (MVP)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
